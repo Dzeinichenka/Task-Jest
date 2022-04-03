@@ -1,0 +1,26 @@
+{
+  "name": "lessontwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzeinichenka/LessonTwo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzeinichenka/LessonTwo/issues"
+  },
+  "homepage": "https://github.com/Dzeinichenka/LessonTwo#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yards": "^0.1.4"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
